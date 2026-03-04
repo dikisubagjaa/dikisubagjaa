@@ -1,4 +1,4 @@
-<h1 align='center'>Hy i'm Dwi Gunardi M.</h1>
+<h1 align='center'>Hy i'm Diki Subagja.</h1>
 <h3 align='center'>Front End Developer</h3>
 <p align='center'>I enjoy turning complex problems into simple, beautiful and intuitive solutions. My job is to build functional and user-friendly websites for you.</p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
